@@ -28,6 +28,37 @@ Hero(
                 "Thor",
                 "https://www.superherodb.com/gallery/075/803/80392.webp"
             ),
+Hero(
+                5,
+                "Captain America",
+                "https://www.superherodb.com/gallery/075/39/3955.webp"
+            ),
+            Hero(
+                6,
+                "Superman",
+                "https://www.superherodb.com/gallery/075/847/84742.webp"
+            ),
+            Hero(
+                7,
+                "Batman",
+                "https://www.superherodb.com/gallery/075/46/4692.webp"
+            ),
+            Hero(
+                8,
+                "Wonder Woman",
+                "https://www.superherodb.com/gallery/075/827/82742.webp"
+            ),
+            Hero(
+                9,
+                "Flash",
+                "https://www.superherodb.com/gallery/075/308/30830.webp"
+            ),
+            Hero(
+                10,
+                "Green Lantern",
+                "https://www.superherodb.com/gallery/075/50/5016.webp"
+            ),
+
         )
     }
 }
